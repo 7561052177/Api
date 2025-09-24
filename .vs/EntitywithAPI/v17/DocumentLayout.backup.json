@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\EntitywithAPI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|d:\\projects\\entitywithapi\\entitywithapi\\entitywithapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|solutionrelative:entitywithapi\\entitywithapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|d:\\projects\\entitywithapi\\entitywithapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|solutionrelative:entitywithapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|d:\\projects\\entitywithapi\\entitywithapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|solutionrelative:entitywithapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|d:\\projects\\entitywithapi\\entitywithapi\\data\\appdbcontxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|solutionrelative:entitywithapi\\data\\appdbcontxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|d:\\projects\\entitywithapi\\entitywithapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|solutionrelative:entitywithapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|d:\\projects\\entitywithapi\\entitywithapi\\migrations\\20250829102204_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|solutionrelative:entitywithapi\\migrations\\20250829102204_gui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|d:\\projects\\entitywithapi\\entitywithapi\\migrations\\20250829095922_iiu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96A8339F-9F0B-45AB-ADD5-700FC21AFFAB}|EntitywithAPI\\EntitywithAPI.csproj|solutionrelative:entitywithapi\\migrations\\20250829095922_iiu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,98 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "EntitywithAPI\\Model\\Product.cs",
-              "ToolTip": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Model\\Product.cs",
-              "RelativeToolTip": "EntitywithAPI\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T07:06:21.603Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250829095922_iiu.cs",
-              "DocumentMoniker": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Migrations\\20250829095922_iiu.cs",
-              "RelativeDocumentMoniker": "EntitywithAPI\\Migrations\\20250829095922_iiu.cs",
-              "ToolTip": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Migrations\\20250829095922_iiu.cs",
-              "RelativeToolTip": "EntitywithAPI\\Migrations\\20250829095922_iiu.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T09:59:24.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "EntitywithAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "EntitywithAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAwwDoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T05:40:04.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appdbcontxt.cs",
-              "DocumentMoniker": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Data\\appdbcontxt.cs",
-              "RelativeDocumentMoniker": "EntitywithAPI\\Data\\appdbcontxt.cs",
-              "ToolTip": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Data\\appdbcontxt.cs",
-              "RelativeToolTip": "EntitywithAPI\\Data\\appdbcontxt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T05:19:06.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EntitywithAPI.csproj",
-              "DocumentMoniker": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\EntitywithAPI.csproj",
-              "RelativeDocumentMoniker": "EntitywithAPI\\EntitywithAPI.csproj",
-              "ToolTip": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\EntitywithAPI.csproj",
-              "RelativeToolTip": "EntitywithAPI\\EntitywithAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-29T05:18:34.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250829102204_gui.cs",
-              "DocumentMoniker": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Migrations\\20250829102204_gui.cs",
-              "RelativeDocumentMoniker": "EntitywithAPI\\Migrations\\20250829102204_gui.cs",
-              "ToolTip": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Migrations\\20250829102204_gui.cs",
-              "RelativeToolTip": "EntitywithAPI\\Migrations\\20250829102204_gui.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T10:22:05.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Program.cs",
-              "RelativeDocumentMoniker": "EntitywithAPI\\Program.cs",
-              "ToolTip": "D:\\Projects\\EntitywithAPI\\EntitywithAPI\\Program.cs",
-              "RelativeToolTip": "EntitywithAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T05:09:24.493Z"
             }
           ]
         }
